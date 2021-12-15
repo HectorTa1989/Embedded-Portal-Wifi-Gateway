@@ -1,4 +1,4 @@
-// Monitoring and control of wifi, client part
+// Monitoring and control of wifi, client part 
 
 #define _GNU_SOURCE
 
